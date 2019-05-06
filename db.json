@@ -1,16 +1,11 @@
 {
-  "id": 1,
-  "key": "key1"
-}
-{
-  "id": 2,
-  "key": "key2"
-}
-{
-  "id": 3,
-  "key": "key3"
-}
-{
-  "id": 4,
-  "key": "key4"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
