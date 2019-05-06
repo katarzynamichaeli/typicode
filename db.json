@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "key": "key1"
+      "key": "key1",
+      "title": "title"
     }
   ],
   "profile": {
