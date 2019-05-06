@@ -2,23 +2,23 @@
   "id": 1,
   "key": "key1"
   "content": "content1"
-  done: false
+  "done": false
 }
 {
   "id": 2,
   "key": "key2"
   "content": "content2"
-  done: false
+  "done": false
 }
 {
   "id": 3,
   "key": "key3"
   "content": "content3"
-  done: false
+  "done": false
 }
 {
   "id": 4,
   "key": "key4"
   "content": "content4"
-  done: false
+  "done": false
 }
