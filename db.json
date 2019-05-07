@@ -1,5 +1,4 @@
 {
-  "todolist": [
     {
       "id": 1,
       "key": "key1",
@@ -18,5 +17,4 @@
       "content": "content3",
       "done": false
     },
-  ]
 }
