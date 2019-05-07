@@ -1,14 +1,12 @@
-[
 {"id": 1,
-      "key": "key1",
-      "content": "content1",
-      "done": false},
+ "key": "key1",
+ "content": "content1",
+ "done": false},
 {"id": 2,
-      "key": "key2",
-      "content": "content2",
-      "done": false},
+ "key": "key2",
+ "content": "content2",
+ "done": false},
 {"id": 3,
-      "key": "key3",
-      "content": "content3",
-      "done": false}
-]
+ "key": "key3",
+ "content": "content3",
+ "done": false},
