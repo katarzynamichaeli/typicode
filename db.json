@@ -1,4 +1,4 @@
-{[
+[
 {"id": 1,
       "key": "key1",
       "content": "content1",
@@ -11,4 +11,4 @@
       "key": "key3",
       "content": "content3",
       "done": false}
-]}
+]
