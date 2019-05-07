@@ -1,18 +1,19 @@
 {
-   "id": 1,
-   "key": "key1",
-   "content": "content1",
-   "done": false
-},
-{
-   "id": 2,
-   "key": "key2",
-   "content": "content2",
-   "done": false
-},
-{
-   "id": 3,
-   "key": "key3",
-   "content": "content3",
-   "done": false
+  "posts": [
+    {
+      "id": 1,
+      "key": "key1",
+      "title": "title1",
+      "done": false
+    },
+    {
+      "id": 2,
+      "key": "key2",
+      "title": "title2",
+      "done": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
