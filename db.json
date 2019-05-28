@@ -1,4 +1,16 @@
 {
+    "headings":[
+        {
+            "status": "Status",
+            "start": "Start Date",
+            "deadline": "Deadline",
+            "client": "Client Name",
+            "trade": "Trade",
+            "source": "Source Language",
+            "target": "Target Language",
+            "file": "Files"
+        }
+    ],
     "quotes":[
         {
             "status": "New",
