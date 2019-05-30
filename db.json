@@ -1,13 +1,13 @@
 {
     "headings":[
-        { key: "status", label: "Status" },
-        { key: "start", label: "Start Date" },
-        { key: "deadline", label: "Deadline" },
-        { key: "client", label: "Client Name" },
-        { key: "trade", label: "Trade" },
-        { key: "source", label: "Source Language" },
-        { key: "target", label: "Target Language" },
-        { key: "file", label: "Files" }
+        { "key": "status", "label": "Status" },
+        { "key": "start", "label": "Start Date" },
+        { "key": "deadline", "label": "Deadline" },
+        { "key": "client", "label": "Client Name" },
+        { "key": "trade", "label": "Trade" },
+        { "key": "source", "label": "Source Language" },
+        { "key": "target", "label": "Target Language" },
+        { "key": "file", "label": "Files" }
     ],
     "quotes":[
         {
