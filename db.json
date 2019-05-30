@@ -1,15 +1,13 @@
 {
     "headings":[
-        {
-            "status": "Status",
-            "start": "Start Date",
-            "deadline": "Deadline",
-            "client": "Client Name",
-            "trade": "Trade",
-            "source": "Source Language",
-            "target": "Target Language",
-            "file": "Files"
-        }
+        { key: "status", label: "Status" },
+        { key: "start", label: "Start Date" },
+        { key: "deadline", label: "Deadline" },
+        { key: "client", label: "Client Name" },
+        { key: "trade", label: "Trade" },
+        { key: "source", label: "Source Language" },
+        { key: "target", label: "Target Language" },
+        { key: "file", label: "Files" }
     ],
     "quotes":[
         {
